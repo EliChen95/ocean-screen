@@ -1,7 +1,7 @@
 <template>
   <div class="relative w-full h-full"> 
     <div class="relative w-full h-full"> 
-      <div class="absolute inset-0"> 
+      <div class="absolute w-full h-full inset-0"> 
         <div class="w-full h-full absolute top-0 left-0 bg-no-repeat bg-[center_center] origin-center_center bg-[url('@/assets/images/whcircle.png')] animate-spin-slow"></div> 
         <div class="w-full h-full absolute top-0 left-0 bg-no-repeat bg-[center_center] origin-center_center bg-[url('@/assets/images/circle2.png')] animate-reverse-spin-slow"></div> 
         <div class="w-full h-full absolute top-0 left-0 bg-no-repeat bg-[center_center] origin-center_center bg-[url('@/assets/images/inner.png')]"></div> 

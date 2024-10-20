@@ -5,11 +5,11 @@
         <div class="absolute top-[35px] w-full h-[80%]">
           <div class="relative w-full h-full">
             <div class="relative top-[16px] left-[30px] w-[234px] h-[234px]">
-              <div class="absolute inset-0 bg-no-repeat bg-center animated infinite rotateF bg-[url('@/assets/images/dynamic/info-1-0.png')]"></div>
-              <div class="absolute inset-0 bg-no-repeat bg-center animated infinite rotateF bg-[url('@/assets/images/dynamic/info-1-1.png')]"></div>
-              <div class="absolute inset-0 bg-no-repeat bg-center animated infinite rotate bg-[url('@/assets/images/dynamic/info-1-2.png')]"></div>
-              <div class="absolute inset-0 bg-no-repeat bg-center animated infinite rotate bg-[url('@/assets/images/dynamic/info-1-3.png')]"></div>
-              <div class="absolute inset-0 bg-no-repeat bg-center animated infinite flashPD bg-[url('@/assets/images/dynamic/info-1-4.png')]"></div>
+              <div class="absolute w-full h-full inset-0 bg-no-repeat bg-center animated infinite rotateF bg-[url('@/assets/images/dynamic/info-1-0.png')]"></div>
+              <div class="absolute w-full h-full inset-0 bg-no-repeat bg-center animated infinite rotateF bg-[url('@/assets/images/dynamic/info-1-1.png')]"></div>
+              <div class="absolute w-full h-full inset-0 bg-no-repeat bg-center animated infinite rotate bg-[url('@/assets/images/dynamic/info-1-2.png')]"></div>
+              <div class="absolute w-full h-full inset-0 bg-no-repeat bg-center animated infinite rotate bg-[url('@/assets/images/dynamic/info-1-3.png')]"></div>
+              <div class="absolute w-full h-full inset-0 bg-no-repeat bg-center animated infinite flashPD bg-[url('@/assets/images/dynamic/info-1-4.png')]"></div>
             </div>
 
             <div class="absolute left-0 top-[15px] pl-[290px] h-[60px] bg-no-repeat bg-[180px_center] animated fadeInLeft bg-[url('@/assets/images/dynamic/info-line-01.png')]">
